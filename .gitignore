@@ -1,0 +1,12 @@
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Agent tooling
+.qodo/
+
+# OS
+.DS_Store
+Thumbs.db
