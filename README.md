@@ -1,7 +1,11 @@
 # skills
 
-Opinionated engineering conventions for Go services and project documentation,
-packaged as agent skills for Claude Code, Cursor, and GitHub Copilot.
+Opinionated engineering conventions packaged as agent skills for Claude Code,
+Cursor, and GitHub Copilot.
+
+Organised by topic, and not tied to one language: the documentation skills
+(README structure, OpenAPI) apply to any project, while language topics hold
+their own conventions. Today that is Go and docs; new topics are new folders.
 
 ## What this is
 
