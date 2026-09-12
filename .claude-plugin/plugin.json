@@ -1,0 +1,13 @@
+{
+  "name": "skills",
+  "description": "Personal engineering conventions: Go project structure, config, commands, hexagonal design, database access, testing, plus README and OpenAPI docs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Erfan Momeni",
+    "url": "https://github.com/ErfanMomeniii"
+  },
+  "repository": "https://github.com/ErfanMomeniii/skills",
+  "license": "MIT",
+  "keywords": ["go", "golang", "conventions", "documentation"],
+  "skills": ["./skills/golang", "./skills/docs"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "erfan",
+  "owner": {
+    "name": "Erfan Momeni",
+    "url": "https://github.com/ErfanMomeniii"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Personal engineering conventions for Go services and project documentation."
+    }
+  ]
+}
