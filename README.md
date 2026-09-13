@@ -33,6 +33,7 @@ before installing to see whether you agree.
 | golang | [golang-database](skills/golang/database/SKILL.md) | Native DB clients, hand-written SQL, pools, transactions, migrations |
 | golang | [golang-testing](skills/golang/testing/SKILL.md) | What to test, table-driven scenarios, fakes, determinism, coverage |
 | golang | [golang-logging](skills/golang/logging/SKILL.md) | Structured logging with zap: port, levels, field naming, what never gets logged |
+| golang | [golang-godoc](skills/golang/godoc/SKILL.md) | Doc comments on every exported identifier, stating purpose not implementation |
 | docs | [docs-readme](skills/docs/readme/SKILL.md) | README for end users: use case, features, solution design, how to run |
 | docs | [docs-openapi](skills/docs/openapi/SKILL.md) | Mandatory `docs/swagger.yaml` for HTTP APIs, schemas, CI drift check |
 
